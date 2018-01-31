@@ -1,0 +1,234 @@
+#fb	{ border-radius: 10px;
+	width: 60px}
+#twitter {border-radius: 10px;
+	width: 60px}
+h1 {color: white;
+	font-family: Front Page Supplement;
+	font-size: 25px ; }
+#acc	{border-radius: 10px;
+	width: 160px}
+#bordure {
+	border: 5px solid rgb(255, 192, 0);
+	background-color: rgb(255, 192, 0);
+	text-align: center; 
+	margin-bottom: 40px; 
+} 
+#tittle, #fb, #twitter, #acc {display : inline-block; vertical-align: middle;}
+.box{
+	height: 150px;
+	text-align: center;
+}
+/*.btn-outline{
+	text-align:bottom
+}*/
+
+.card-group{
+	margin-bottom: 40px;
+}
+.justify-content-around{
+	margin-bottom: 20px;
+}
+
+
+#yellowbox{
+	background-image: url("post-it jaune.png");
+	background-size: cover;
+	background-position: bottom; 
+	}
+.btn-outline-warning{
+	background-color: white;
+	text-align: bottom;
+	font-family: Dosis;
+	font-weight: bold;
+}
+
+#bluebox{
+	background-image: url("post-it bleu.png");
+	background-size: cover;
+	background-position: bottom ; 
+}
+.btn-outline-primary{
+	background-color: white;
+	text-align: bottom;
+	font-family: Dosis;
+	font-weight: bold;
+}
+
+
+#greenbox{
+	background-image: url("post-it vert.png");
+	background-size: cover;
+	background-position: bottom ; 
+}
+.btn-outline-success{
+	background-color: white;
+	text-align: bottom;
+	font-family: Dosis;
+	font-weight: bold;
+}
+ 
+#redbox{
+	background-image: url("post-it rouge.png");
+	background-size: cover;
+	background-position: bottom;  
+}
+.btn-outline-danger{
+	background-color: white;
+	text-align: bottom;
+	font-family: Dosis;
+	font-weight: bold;
+}
+
+.card-img-top{
+	width: 70px;
+	height : 70px;
+	margin-top: 10px;
+	}
+.card{
+	text-align: center;
+}
+.card-text{
+	font-family: 'Dosis', sans-serif;
+	font-size: 20px;
+}
+.card-title{
+	font-family: Front Page Supplement;
+	font-size: 25px;
+}
+#blue-title{
+	color:#09A1DC;
+}
+#green-title{
+	color:#4DAD43;
+}
+#red-title{
+	color:#C42229;
+}
+
+h1{
+font-family: Front Page Supplement;
+font-size : 25px;	
+color: white;
+padding: 15px;
+margin:0px;
+}
+h2{
+	font-family: Front Page Supplement; 
+	font-size : 15px;
+	color : white;
+
+}
+#mybanner{
+	background-image: url("monde enactus.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-bottom: 35px;
+	/*text-align: center;*/
+}
+#challenge {
+	text-align: center;
+	margin-top: 130px;
+}
+#enactus {
+	/*float: right;*/
+	/* height: 200px;
+	width: 261px; */
+	font-family: 'PT Sans', sans-serif;
+	font-size: 25px;
+	margin-right: 187px;
+}
+
+#img1 {
+	width: 200px;
+	display: inline-block;
+}
+
+#intro {
+    background: linear-gradient(to right, #f7971e, #ffd200);
+	color: white;
+	margin-bottom: 40px;
+	text-align: center;
+	font-family: 'PT Sans', sans-serif;
+	}
+#by {
+	margin-top: 10px;
+	display: inline-block;
+}
+p{
+	font-size: 25px;
+	font-family:Dosis;
+	padding: 15px;
+	text-align :center;
+}
+
+h5{
+	font-family: Front Page Supplement;
+	font-size:15px;
+}
+.btn-block{
+	margin:10px 0;
+	text-align: center;
+	font-family:Front Page Supplement;
+}
+
+#nav-bar-les-ateliers{
+	background-color: white;
+	 border-color:#FFC000;
+	 border-width: 3px;
+}
+
+#nav-bar-les-actus{
+background-color: white;
+	 border-color:#4DAD43;
+	 border-width: 3px;
+}
+
+.navbar-brand{
+	font-family:Front Page Supplement;
+	font-weight:bold;
+	font-size:25px;
+	color:#FFC000;
+}
+.nav-link{
+	font-family:Front Page Supplement;
+	font-size: 20px	
+}
+
+.card-img-top{
+	background-size:cover;
+	background-position: center;
+
+
+}
+.btn-group-vertical{
+	max-width: 100%;
+}
+.btn-warning{
+	white-space: initial;
+	margin-top:5px;
+	margin-bottom: 5px;
+	font-family: Front Page Supplement
+}
+.col-sm-6{
+	margin: 30px;
+
+}
+#présentation{
+	border: #FFC000;
+}
+
+#articles {
+	margin-top: 12px;
+}
+
+#actus{
+	margin-bottom: 30px;
+}
+#photos{
+	margin-bottom:40px;
+}
+
+#Aftermoovie-1èreedition{
+height:75vh;
+width: 150vh;
+}

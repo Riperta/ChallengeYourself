@@ -1,0 +1,82 @@
+<nav>
+  <div class="nav nav-tabs" id="nav-tab" role="tablist">
+    <a class="nav-item nav-link active" id="nav-home-tab" data-toggle="tab" href="#nav-home" role="tab" aria-controls="nav-home" aria-selected="true">Présentations</a>
+    <a class="nav-item nav-link" id="nav-profile-tab" data-toggle="tab" href="#nav-profile" role="tab" aria-controls="nav-profile" aria-selected="false">Séances</a>
+    <a class="nav-item nav-link" id="nav-contact-tab" data-toggle="tab" href="#nav-contact" role="tab" aria-controls="nav-contact" aria-selected="false">Ressources&Liens</a>
+  </div>
+</nav>
+<div class="row tab-content" id="nav-tabContent">
+  <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
+<p> La méthodologie que nous présentons est inspirée de ce qui se fait dans les incubateurs, les écoles de commerce et chez Enactus. Nous vous proposons 12 séances pour mettre en forme votre projet et pouvoir à la fin communiquer dessus. </p>
+  </div>
+  <div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
+
+
+
+<div class="col-sm-4">
+				  <div class="card " >
+				    <div><img class="card-img-top" src="longue vue.png" alt="Card image cap"></div>
+				    <div class="card-body">
+				      <h5 class="card-title">Etape 1 : Découverte de l'environnement</h5>
+				      <p class="card-text"> Avant de ce lancer, il faut s'assurer que le marché actuel est prêt pour le produit ou le service qu'on veut proposer mais aussi que la loi nous y autorise .</p>
+				      <div class="btn-group-vertical">
+				      	<a class="btn btn-warning" target="_blank">Séance 1 - Analyse de l'environnement 1ère partie</a>
+				      	<a class="btn btn-warning" target="_blank">Séance 2 - Analyse de l'environnement 2ème partie</a>
+				      	<a class="btn btn-warning" target="_blank">Séance 3 - Enquête terrain</a>
+				      	<a class="btn btn-warning" target="_blank">Séance 4 - Sythèse de l'étude de l'environnement</a>
+				      </div>
+				  </div>
+				  </div></div>
+		    <div class="col-sm-4">
+		    <div class="card" >
+		      <div><img class="card-img-top" src="canavs vector.png" alt="Card image cap"></div>
+		      <div class="card-body">
+		        <h5 class="card-title">Etape 2 : Business Model et Business Plan
+		        </h5>
+		        <p class="card-text"> Il est tant de rédiger votre Business Model puis votre Business Plan</p>
+		        <div class="btn-group-vertical">
+		        	<a class="btn btn-warning" target="_blank">Séance 5 - BM : Création de valeur - Distribution - Relation client </a>
+		        	<a class="btn btn-warning" target="_blank">Séance 6 - BM : Ressources, partenaires et Activités clefs </a>
+		        	<a class="btn btn-warning" target="_blank">Séance 7 - BM : Revenue et structure des coûts </a>
+		        	<a class="btn btn-warning" target="_blank">Séance 8 - Business Plan </a>
+		        	
+		        </div>
+		      </div>
+		 </div>
+		  	</div>
+			<div class="col-sm-4">
+		      <div class="card" >
+		        <div><img class="card-img-top" src="oral.png" alt="Card image cap"></div>
+		        <div class="card-body">
+		          <h5 class="card-title">Etape 3 : Préparation concours final
+		          </h5>
+		          <p class="card-text"> Il est temps de faire parler de votre idée !! Il est de temps de montrer vos talents de pitcheur !! </p>
+		          <div class="btn-group-vertical">
+		          	<a class="btn btn-warning" target="_blank">Séance 9 - Créer votre Power Point</a>
+		          	<a class="btn btn-warning" target="_blank">Séance 10 - Créer votre publicité </a>
+		          	<a class="btn btn-warning" target="_blank">Séance 11 -  Apprenez à pitcher </a>
+		          	<a class="btn btn-warning" target="_blank">Séance 12 - Oraux Blancs </a>
+		          	
+		          </div>
+		        </div>
+		    </div>
+		    </div>
+		</div>
+		</div>
+
+  </div>
+  <div class="tab-pane fade" id="nav-contact" role="tabpanel" aria-labelledby="nav-contact-tab">
+  <div class="col-sm-6">
+		   <div class="card border-warning mb-3" style="max-width: 18rem;">
+		     <div class="card-header bg-transparent border-warning"><img class="card-img-top" id="logo-canva" src="logo canva.png" alt="Card image cap"></div>
+		     <div class="card-body text-warning">
+		       <h5 class="card-title">Canva</h5>
+		       <p class="card-text">Pour réaliser votre publicité simplement</p>
+		     </div>
+		     <div class="card-footer bg-transparent border-warning">
+		     	<a target="_blank" href="https://www.canva.com/" class="btn btn-warning" >Lien</a>
+		     </div>
+		   </div>
+		  </div>
+		  </div>
+</div>
